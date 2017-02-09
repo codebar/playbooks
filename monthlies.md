@@ -91,44 +91,53 @@ If you're looking for some inspiration, here are the main talks that were featur
 ###### February 2016 @ TwitterHQ
 
 Jo Franchetti, "Sensible CSS: Patterns, Anti-Patterns, Scalability, and Naming"
+
 Oliver Turner, "Webpack & Babel & ES6 & CSS... Oh my! A Tooling Explainer"
 
 ###### March 2016 @ Reevoo
 
 Danielle Vass, "All You Need Are Squares and Circles - Teaching Kids to Code Creatively With JavaScript"
+
 Kadi Kraman, "Once You React You Can't Go Back"
 
 ###### April 2016 @ Thoughtworks
 
 Samir Talwar, "Automated Testing: Move Fast Without Breaking Things"
+
 Nadia Odunayo, "The Guest: A Guide to Code Hospitality"
 
 ###### June 2016 @ CloudFlare
 
 Jonathan Fielding, "Contributing to Open Source"
+
 Tanya Powell, "Making Your Tests Cool as a Cucumber"
 
 ###### July 2016 @ Ticketmaster
 
 Kriselda Rabino, "Finding Meaning and Metadata in Children's Drawings"
+
 Nicky Chorley, "Introduction to Algorithms & Why They're Useful"
 
 ###### August 2016 @ Pivotal
 
 Heather Davidson, "Coding 102"
+
 Alex Peattie, "Thinking in Components: What, Why, and How"
 
 ###### September 2016 @ LostMyName
 
 Sarah Young, "Imposter Syndrome"
+
 David Wickes, "This is the Title of This Talk: An Introduction to Recursion"
 
 ###### "October" 2016 - Fauxloween Edition @ Ticketmaster
 
 Ben Scott, "Typography for Developers"
+
 Halima Koundi, "The Four Simple Rules of Design"
 
 ###### November 2016 @ Unruly
 
 Rabea Gleissner, "An Introduction to Progressive Web Apps"
+
 Chris James, "Defensive Programming"
