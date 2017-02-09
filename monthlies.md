@@ -1,6 +1,6 @@
 # Hosting codebar Monthlies
 
-The Monthlies were started in Central London in February 2015. This is an 
+The Monthlies were started in Central London in February 2016. This is an 
 ongoing talks night event featuring speakers from diverse backgrounds and targeted 
 towards beginners and junior developers.
 
